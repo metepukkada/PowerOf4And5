@@ -1,0 +1,1 @@
+# Java Döngüleri Kullanılarak Yazılan Sayıya Kadar Olan 4 ve 5'in Üslerini Bulan Program.
